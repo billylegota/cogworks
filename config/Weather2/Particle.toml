@@ -1,0 +1,10 @@
+
+#General mod settings
+[general]
+	#-
+	#Range: 4.9E-324 ~ 1.7976931348623157E308
+	Precipitation_Particle_effect_rate = 0.7
+	#Extra flying block particles to spawn when the tornado rips up a block
+	#Range: > 0
+	Particle_Tornado_extraParticleCubes = 2
+
