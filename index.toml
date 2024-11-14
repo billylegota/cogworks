@@ -7,6 +7,14 @@ hash = "aa73f1b4f3056e09f1dc17ef232830481bcdcf8b4a673e3c7082f061912a4ac6"
 [[files]]
 file = "datapacks/terratonic.pw.toml"
 hash = "ac9447dd7c6b50afc71828558c64207605c9e1bb5b40f1647cc6cb0b189fa688"
+<<<<<<< HEAD
+=======
+metafile = true
+
+[[files]]
+file = "mods/ae2.pw.toml"
+hash = "411c7f45960d3e5e5321ad7c4365a623bf881de361ed69359df2b01c5d8df76f"
+>>>>>>> namgef
 metafile = true
 
 [[files]]
@@ -42,6 +50,7 @@ metafile = true
 [[files]]
 file = "mods/blockui.pw.toml"
 hash = "5be62cf52a3584f39286d261f9325a1ddfb0efb6f1838b9f368df6a28cab3d15"
+<<<<<<< HEAD
 metafile = true
 
 [[files]]
@@ -50,6 +59,16 @@ hash = "02062a6b61e230e7debaf1c03d5e1e7203e427588fceb9f3d6ef8cad8062397e"
 metafile = true
 
 [[files]]
+=======
+metafile = true
+
+[[files]]
+file = "mods/bookshelf-lib.pw.toml"
+hash = "02062a6b61e230e7debaf1c03d5e1e7203e427588fceb9f3d6ef8cad8062397e"
+metafile = true
+
+[[files]]
+>>>>>>> namgef
 file = "mods/botarium.pw.toml"
 hash = "440a806e54d48cd4c5ef447ff8f1a6cd9a99d53d02ab90d50204be9b31c2f30d"
 metafile = true
@@ -57,11 +76,28 @@ metafile = true
 [[files]]
 file = "mods/citadel.pw.toml"
 hash = "05fdc598a3d7461f62d878ebe8d3d7fd714ca8bdeb93831e9f0e0876adfca01a"
+<<<<<<< HEAD
+=======
+metafile = true
+
+[[files]]
+file = "mods/clumps.pw.toml"
+hash = "903352ffbd84d4b95fed905893f4715d9c3f88ec9fff6fb06f6e359e0b839dc3"
+>>>>>>> namgef
 metafile = true
 
 [[files]]
 file = "mods/cofh-core.pw.toml"
+<<<<<<< HEAD
 hash = "2851d6afaaef7a6295ad252746fd4d200e96f7e85c24f11dca9be06ad221b41b"
+=======
+hash = "20fcd633516ef654e4a1546ab7e1cd4e22bc96a087544ae583f85df9b7a65468"
+metafile = true
+
+[[files]]
+file = "mods/connectivity.pw.toml"
+hash = "43bd0de3b867581d9e806c36d70096f427100bcb47c248121247e81f1f07a0d5"
+>>>>>>> namgef
 metafile = true
 
 [[files]]
@@ -177,6 +213,14 @@ metafile = true
 [[files]]
 file = "mods/createtweaker.pw.toml"
 hash = "0bc406792e1f26a468adb0637182dd835ad08331761bbe84ff44e1e070408940"
+<<<<<<< HEAD
+=======
+metafile = true
+
+[[files]]
+file = "mods/cupboard.pw.toml"
+hash = "2eb26b157c4159bfeff6a00147afa35284397d558f84b55367d1a41064d7456a"
+>>>>>>> namgef
 metafile = true
 
 [[files]]
@@ -187,6 +231,7 @@ metafile = true
 [[files]]
 file = "mods/domum-ornamentum.pw.toml"
 hash = "360053eae8a35a1f879f70007e19b2839964947ee1536d9b18a128443f36d7b0"
+<<<<<<< HEAD
 metafile = true
 
 [[files]]
@@ -195,6 +240,16 @@ hash = "97c4b77cca3bfc589fb910417360132e0eddf8f09bbf9645b9e4e23f76450ed7"
 metafile = true
 
 [[files]]
+=======
+metafile = true
+
+[[files]]
+file = "mods/dynamictrees.pw.toml"
+hash = "97c4b77cca3bfc589fb910417360132e0eddf8f09bbf9645b9e4e23f76450ed7"
+metafile = true
+
+[[files]]
+>>>>>>> namgef
 file = "mods/dynamictreesplus.pw.toml"
 hash = "f7ed4a228e35c8a6d95d0cd56376d6bb55e116264db3acd8d3b978c7ae3a306f"
 metafile = true
@@ -290,6 +345,14 @@ hash = "7ea985404ee4cc9082472c6869ec146309f526e395361b39f2f4c1a43506c41d"
 metafile = true
 
 [[files]]
+<<<<<<< HEAD
+=======
+file = "mods/krypton-reforged.pw.toml"
+hash = "ba2f214504381c53f588e1a52d8be657b47ed53a256b45d623cea2c724748afa"
+metafile = true
+
+[[files]]
+>>>>>>> namgef
 file = "mods/library-ferret-forge.pw.toml"
 hash = "207ea5c3ad00aee495de4d614c504d443c141068a2ddf0554f5a7829923cfeec"
 metafile = true
@@ -297,6 +360,7 @@ metafile = true
 [[files]]
 file = "mods/lmd.pw.toml"
 hash = "33d293e7827a0b6c529152b36d51498a33280ab6c3831a8ca8a7ce73f62b655c"
+<<<<<<< HEAD
 metafile = true
 
 [[files]]
@@ -310,6 +374,21 @@ hash = "be7e6f4a7b0cae7b00b40458f899891ccc208b5dbe2f0f1b792be517f6a3d1d4"
 metafile = true
 
 [[files]]
+=======
+metafile = true
+
+[[files]]
+file = "mods/memoryleakfix.pw.toml"
+hash = "ade41e4315735aa9116a0222b332e03d3f8df6eea301764d40d0bdc40f5e8689"
+metafile = true
+
+[[files]]
+file = "mods/minecolonies-compatibility.pw.toml"
+hash = "be7e6f4a7b0cae7b00b40458f899891ccc208b5dbe2f0f1b792be517f6a3d1d4"
+metafile = true
+
+[[files]]
+>>>>>>> namgef
 file = "mods/minecolonies-tweaks.pw.toml"
 hash = "cee7d94d9e6d78049e55aea9e51fc86efc965b72259bb26ebf5219765f5d3055"
 metafile = true
@@ -332,16 +411,37 @@ metafile = true
 [[files]]
 file = "mods/mysterious-mountain-lib.pw.toml"
 hash = "47cc669f6c489030f5c0c3d551fe6682aa94f296288173801e6b37033d5fb60f"
+<<<<<<< HEAD
+=======
+metafile = true
+
+[[files]]
+file = "mods/natures-compass.pw.toml"
+hash = "362ead0883974a7de4dd711a75ccfe71b2ceadf172211934e8cd6084977c0f49"
+>>>>>>> namgef
 metafile = true
 
 [[files]]
 file = "mods/neruina.pw.toml"
 hash = "370cc7013d4161ac19543d08d386376a979a4a6a0b016f6c76cd391784ba0634"
+<<<<<<< HEAD
 metafile = true
 
 [[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "b52622122c19a3894e62fc5506d7c3332d202504fd406d6718be646f979feb40"
+=======
+metafile = true
+
+[[files]]
+file = "mods/playeranimator.pw.toml"
+hash = "b52622122c19a3894e62fc5506d7c3332d202504fd406d6718be646f979feb40"
+metafile = true
+
+[[files]]
+file = "mods/rechiseled-ae2.pw.toml"
+hash = "38342c1b01004c7c280a2827471710d18c45a85008034d362a53a4ec5b913c68"
+>>>>>>> namgef
 metafile = true
 
 [[files]]
