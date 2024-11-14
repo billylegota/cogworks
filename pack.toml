@@ -1,11 +1,16 @@
-name = "Create'a Colony 1.0"
+name = "Cogworks"
+author = "namgeftobang"
+version = "1.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "ab64d4eaa2726e244af615b0856e0cfcf8fb2f5ab31ad35cec6bf9b9f573e3bf"
+hash = "ea3562f8840140f2df3057ab51ef46449cb979f1b41be231a3f2d1cb52b89d6f"
 
 [versions]
-forge = "47.2.0"
+forge = "47.3.12"
 minecraft = "1.20.1"
+
+[options]
+datapack-folder = "datapacks"
