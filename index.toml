@@ -45,6 +45,11 @@ hash = "5be62cf52a3584f39286d261f9325a1ddfb0efb6f1838b9f368df6a28cab3d15"
 metafile = true
 
 [[files]]
+file = "mods/bookshelf-lib.pw.toml"
+hash = "02062a6b61e230e7debaf1c03d5e1e7203e427588fceb9f3d6ef8cad8062397e"
+metafile = true
+
+[[files]]
 file = "mods/botarium.pw.toml"
 hash = "440a806e54d48cd4c5ef447ff8f1a6cd9a99d53d02ab90d50204be9b31c2f30d"
 metafile = true
@@ -156,7 +161,7 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "8782d120f8b3e8439595af87a84d8e955ecdcf2e7abcf1a2ce85c413f085daa3"
+hash = "1eceb4e4ab86c793f992ce9444e92f46dae76c3f744d8e19feb1143fb6c01939"
 metafile = true
 
 [[files]]
@@ -190,6 +195,11 @@ hash = "f7ed4a228e35c8a6d95d0cd56376d6bb55e116264db3acd8d3b978c7ae3a306f"
 metafile = true
 
 [[files]]
+file = "mods/enchantment-descriptions.pw.toml"
+hash = "473489bb165ab775858cc475d8e9ae599e126bced1c73d17563e3459e4899719"
+metafile = true
+
+[[files]]
 file = "mods/eureka-ships.pw.toml"
 hash = "c61734cdfd93db9cc1509659e5719d8db79ffafec8eb9832776a0253f6096cdf"
 metafile = true
@@ -217,6 +227,11 @@ metafile = true
 [[files]]
 file = "mods/forgified-fabric-api.pw.toml"
 hash = "73731fbf0a731554608aaa9705f51036892f1fe92606a93594f689e7227a5056"
+metafile = true
+
+[[files]]
+file = "mods/fusion-connected-textures.pw.toml"
+hash = "21e3dd574b6f66202b2c36b23fabbb985d76f582254b66ee21771556cc34db11"
 metafile = true
 
 [[files]]
@@ -330,6 +345,16 @@ hash = "b52622122c19a3894e62fc5506d7c3332d202504fd406d6718be646f979feb40"
 metafile = true
 
 [[files]]
+file = "mods/rechiseled-create.pw.toml"
+hash = "800a76586e36304106f2b28e1947f2398b3bd6a941a1d271becdafbfd0dbfa11"
+metafile = true
+
+[[files]]
+file = "mods/rechiseled.pw.toml"
+hash = "442f784b7c8e3d3231e407a9af4530c16fff9c301a5f57144fb5d895c754ded9"
+metafile = true
+
+[[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "5c07edd0c8fe82e85efd6c027476ba54cf98291526803b74614c3436292e4ab6"
 metafile = true
@@ -365,8 +390,23 @@ hash = "ec48d572a50fbd832ee905db028a4822a65389ea717a322262112f12dbd8b7c8"
 metafile = true
 
 [[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "1cf9cb3955b075664ea4fba13b47fe7160975740a28864983aebd53d39c1946e"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-core-lib.pw.toml"
+hash = "fd4f922cdf37e4b01f8b039d89d813c8caffe1052774071ca7ff107cd8e6364d"
+metafile = true
+
+[[files]]
 file = "mods/tectonic.pw.toml"
 hash = "23c3dddf24d8d65b2ad798247389647b47e10439dca2c46b1c958a8d2b0a1841"
+metafile = true
+
+[[files]]
+file = "mods/terrablender.pw.toml"
+hash = "dd53b366bee44660eb2523d18c3639281e56a3a756b3f4e8ec4d402f41d5b19d"
 metafile = true
 
 [[files]]
