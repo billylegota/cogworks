@@ -75,6 +75,11 @@ hash = "852ee3d5dea735c0c8f4c030edb06164863e7d27eef535c697f86a8b20a1cff0"
 metafile = true
 
 [[files]]
+file = "mods/corn-delight.pw.toml"
+hash = "e5436d140858377db41e50dbc6ef5ea6fc8efecdbedbb56ae6bf25ac6b4de57e"
+metafile = true
+
+[[files]]
 file = "mods/crafttweaker.pw.toml"
 hash = "e856bebab5538c51551b2759ed92e839728714f14f89a399fe9aa6cad7249d4d"
 metafile = true
@@ -195,11 +200,6 @@ hash = "f7ed4a228e35c8a6d95d0cd56376d6bb55e116264db3acd8d3b978c7ae3a306f"
 metafile = true
 
 [[files]]
-file = "mods/enchantment-descriptions.pw.toml"
-hash = "473489bb165ab775858cc475d8e9ae599e126bced1c73d17563e3459e4899719"
-metafile = true
-
-[[files]]
 file = "mods/eureka-ships.pw.toml"
 hash = "c61734cdfd93db9cc1509659e5719d8db79ffafec8eb9832776a0253f6096cdf"
 metafile = true
@@ -227,11 +227,6 @@ metafile = true
 [[files]]
 file = "mods/forgified-fabric-api.pw.toml"
 hash = "73731fbf0a731554608aaa9705f51036892f1fe92606a93594f689e7227a5056"
-metafile = true
-
-[[files]]
-file = "mods/fusion-connected-textures.pw.toml"
-hash = "21e3dd574b6f66202b2c36b23fabbb985d76f582254b66ee21771556cc34db11"
 metafile = true
 
 [[files]]
@@ -332,6 +327,11 @@ metafile = true
 [[files]]
 file = "mods/multi-piston.pw.toml"
 hash = "680583e1e6c2b4aa4251b25f4887d7e865dfa889268052c498ef152dedee812a"
+metafile = true
+
+[[files]]
+file = "mods/mysterious-mountain-lib.pw.toml"
+hash = "47cc669f6c489030f5c0c3d551fe6682aa94f296288173801e6b37033d5fb60f"
 metafile = true
 
 [[files]]
