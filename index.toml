@@ -70,6 +70,11 @@ hash = "852ee3d5dea735c0c8f4c030edb06164863e7d27eef535c697f86a8b20a1cff0"
 metafile = true
 
 [[files]]
+file = "mods/crafttweaker.pw.toml"
+hash = "e856bebab5538c51551b2759ed92e839728714f14f89a399fe9aa6cad7249d4d"
+metafile = true
+
+[[files]]
 file = "mods/create-applied-kinetics.pw.toml"
 hash = "ebf402b07f881c81c04dad51f2b7780d7f98bc03b9be811777c81714958f1faa"
 metafile = true
@@ -151,12 +156,17 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "1eceb4e4ab86c793f992ce9444e92f46dae76c3f744d8e19feb1143fb6c01939"
+hash = "8782d120f8b3e8439595af87a84d8e955ecdcf2e7abcf1a2ce85c413f085daa3"
 metafile = true
 
 [[files]]
 file = "mods/createaddition.pw.toml"
 hash = "cfaa5b3bc3481ac20f9294309e91f7a01597b6adf70137fe3340d02b7b941299"
+metafile = true
+
+[[files]]
+file = "mods/createtweaker.pw.toml"
+hash = "0bc406792e1f26a468adb0637182dd835ad08331761bbe84ff44e1e070408940"
 metafile = true
 
 [[files]]
