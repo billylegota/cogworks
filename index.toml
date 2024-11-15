@@ -406,6 +406,11 @@ hash = "41e68f8c0fc0bd77176e0214b60c80e7a7425f05216bea2bc9de7399676d02af"
 metafile = true
 
 [[files]]
+file = "mods/selene.pw.toml"
+hash = "c702f86739b460198ad50590d0b6bdd030588af3b9c7c05ece4b74a5fb45addc"
+metafile = true
+
+[[files]]
 file = "mods/slice-and-dice.pw.toml"
 hash = "389bde529f3226ae80f2d4f6a65327a12527af80180d472cbc26eb5405d359d7"
 metafile = true
