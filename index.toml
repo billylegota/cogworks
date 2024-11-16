@@ -120,11 +120,6 @@ hash = "dc9b6077e233adda9597eb5dc7a07921125f834e54c2970038501bd5cfb60235"
 metafile = true
 
 [[files]]
-file = "mods/create-clockwork.pw.toml"
-hash = "c636979fe6705452c913fecba3dd590c0feb83ddbccdf6e8ec5e921c9681c769"
-metafile = true
-
-[[files]]
 file = "mods/create-deco.pw.toml"
 hash = "e5bef1d75ad8fc25274295fdb1589eea7894270ea27718dba4030fa30455324f"
 metafile = true
@@ -137,11 +132,6 @@ metafile = true
 [[files]]
 file = "mods/create-ender-transmission.pw.toml"
 hash = "6f61bcf76100c2b83631d1a9d83fe3046c0072b726118a47af204f47d63f534d"
-metafile = true
-
-[[files]]
-file = "mods/create-eureka.pw.toml"
-hash = "7eb750e73f8d699333f19537b80206d359ad84a12f4f1e2b3beb334df586bc37"
 metafile = true
 
 [[files]]
@@ -222,11 +212,6 @@ metafile = true
 [[files]]
 file = "mods/dynamictreesplus.pw.toml"
 hash = "a30c8cf5cec180b399cff71aaba7971a5ee45661123ae8cf89b0411f0633bd27"
-metafile = true
-
-[[files]]
-file = "mods/eureka-ships.pw.toml"
-hash = "c61734cdfd93db9cc1509659e5719d8db79ffafec8eb9832776a0253f6096cdf"
 metafile = true
 
 [[files]]
@@ -320,11 +305,6 @@ hash = "82ffc26ad624cdd846cbbeb99ed40ef44229ec7006a7ae7e8caa8df6409c20db"
 metafile = true
 
 [[files]]
-file = "mods/krypton-reforged.pw.toml"
-hash = "ba2f214504381c53f588e1a52d8be657b47ed53a256b45d623cea2c724748afa"
-metafile = true
-
-[[files]]
 file = "mods/library-ferret-forge.pw.toml"
 hash = "207ea5c3ad00aee495de4d614c504d443c141068a2ddf0554f5a7829923cfeec"
 metafile = true
@@ -340,18 +320,13 @@ hash = "eab12c7fddf20f293b8726f7553d2c0c0b6c578a2ba03ddf59ae40f6e684e2ce"
 metafile = true
 
 [[files]]
-file = "mods/minecolonies-compatibility.pw.toml"
-hash = "be7e6f4a7b0cae7b00b40458f899891ccc208b5dbe2f0f1b792be517f6a3d1d4"
-metafile = true
-
-[[files]]
 file = "mods/minecolonies-tweaks.pw.toml"
 hash = "cee7d94d9e6d78049e55aea9e51fc86efc965b72259bb26ebf5219765f5d3055"
 metafile = true
 
 [[files]]
 file = "mods/minecolonies.pw.toml"
-hash = "d872975e3eb77fbc09d2c2b5cf4603a8ecc095262eb12bbfa26230b2db11da4a"
+hash = "c70b959fc93192006a1e2d163bd0f1208b9a1b505e03d57405f18ef860138765"
 metafile = true
 
 [[files]]
@@ -485,11 +460,6 @@ hash = "bd294726639dc8e4be6ea5c8c69ee6691a5d9554246b6ee5f5c23dc21d4f4b52"
 metafile = true
 
 [[files]]
-file = "mods/thermal-cultivation.pw.toml"
-hash = "0ca6f7c7a736b318e4165e4954e8bd39b183c45965bd596c8f1a2f948f7222e9"
-metafile = true
-
-[[files]]
 file = "mods/thermal-dynamics.pw.toml"
 hash = "5077218f5a137152465214a9a35544a617902a50145055fd4bcee4121462c57b"
 metafile = true
@@ -517,11 +487,6 @@ metafile = true
 [[files]]
 file = "mods/towntalk.pw.toml"
 hash = "32e0f6bce7adc5b09ba3350110ac4be7ee04e556db35ba1db97bacfabd31e4dc"
-metafile = true
-
-[[files]]
-file = "mods/valkyrien-skies.pw.toml"
-hash = "08c2f56bec64aeb43ae003370351eaae0f1474387f9663765b281a25ba2049ce"
 metafile = true
 
 [[files]]
