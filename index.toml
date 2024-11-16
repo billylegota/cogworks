@@ -465,6 +465,11 @@ hash = "264de662a3aa18ddd73d3d883c4a04a7242e0a933aa84b672e1483ccad49f786"
 metafile = true
 
 [[files]]
+file = "mods/small-ships.pw.toml"
+hash = "a2641c9187ec8485df45b2fb25c901f835da50ffe4d9601e4ecc81fc9036eb55"
+metafile = true
+
+[[files]]
 file = "mods/smarter-farmers-farmers-replant.pw.toml"
 hash = "7bf471e5ca1ddc651fe8cd2c1604782fec092adc28667b9be12d5105d5fb3f97"
 metafile = true
