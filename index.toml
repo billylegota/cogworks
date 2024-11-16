@@ -135,6 +135,11 @@ hash = "dc9b6077e233adda9597eb5dc7a07921125f834e54c2970038501bd5cfb60235"
 metafile = true
 
 [[files]]
+file = "mods/create-compressed.pw.toml"
+hash = "49fe28286f654f28d0b060f5303acdf0ea6386482da0bd7324a6ea67c40b3b05"
+metafile = true
+
+[[files]]
 file = "mods/create-deco-additions.pw.toml"
 hash = "217ea0fc85b62cd045628a88db52dfb95d69047014c89772e1fb5881736a3712"
 metafile = true
@@ -142,6 +147,11 @@ metafile = true
 [[files]]
 file = "mods/create-deco.pw.toml"
 hash = "e5bef1d75ad8fc25274295fdb1589eea7894270ea27718dba4030fa30455324f"
+metafile = true
+
+[[files]]
+file = "mods/create-decoration-casing.pw.toml"
+hash = "e45df35f55a3bc79ccc1bfcf3012f0e845bab0da3ae00b7559ec166e51eaacc6"
 metafile = true
 
 [[files]]
@@ -192,6 +202,11 @@ metafile = true
 [[files]]
 file = "mods/create-metalwork.pw.toml"
 hash = "a2785ee052955ab01ac7d88f4990f1aea7f63cac8562f1952259db1ef3e2f364"
+metafile = true
+
+[[files]]
+file = "mods/create-misc-and-things.pw.toml"
+hash = "67ac69249248ff9b8fe176111a55b71a95dbadd718bb005fa91f9ef6c7b04f36"
 metafile = true
 
 [[files]]
