@@ -135,11 +135,6 @@ hash = "dc9b6077e233adda9597eb5dc7a07921125f834e54c2970038501bd5cfb60235"
 metafile = true
 
 [[files]]
-file = "mods/create-compressed.pw.toml"
-hash = "49fe28286f654f28d0b060f5303acdf0ea6386482da0bd7324a6ea67c40b3b05"
-metafile = true
-
-[[files]]
 file = "mods/create-deco-additions.pw.toml"
 hash = "217ea0fc85b62cd045628a88db52dfb95d69047014c89772e1fb5881736a3712"
 metafile = true
@@ -152,16 +147,6 @@ metafile = true
 [[files]]
 file = "mods/create-decoration-casing.pw.toml"
 hash = "e45df35f55a3bc79ccc1bfcf3012f0e845bab0da3ae00b7559ec166e51eaacc6"
-metafile = true
-
-[[files]]
-file = "mods/create-design-n-decor.pw.toml"
-hash = "5de85151d1381261bb6e0246f599b7d3d7b9e55414bff2ea82c19b75c37de852"
-metafile = true
-
-[[files]]
-file = "mods/create-dynamic-lights.pw.toml"
-hash = "431cd99caa25799106d6b8ba8235196ed5dec0fc81d8e422388ac668eaa98fdb"
 metafile = true
 
 [[files]]
