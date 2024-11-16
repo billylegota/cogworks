@@ -230,11 +230,6 @@ hash = "4f64bc81a381a3cb0c637829d547d8b0f5daa0ea29fe84a9e43a91784763745e"
 metafile = true
 
 [[files]]
-file = "mods/create-sweets-and-treats.pw.toml"
-hash = "738b8b80e2f5b01f40f7c9c5b95fcdab8239b2a627d584dcd32ec534ec8fff1c"
-metafile = true
-
-[[files]]
 file = "mods/create-tfmg.pw.toml"
 hash = "d1123ce5b3fcb3cc4230aa5e1cfbbfabbce020567b5ade5a6f8b0d0546123ccf"
 metafile = true
