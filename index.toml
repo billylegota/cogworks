@@ -5,11 +5,6 @@ file = "Makefile"
 hash = "4d6012a0bcfac575ddd0e34bef799c88764a128ef3919adb66047e4ac1905de3"
 
 [[files]]
-file = "datapacks/terratonic.pw.toml"
-hash = "f61c97ab9b29e586d3cba70390fda97126a3e1ff2656b837f3770934938e3e9a"
-metafile = true
-
-[[files]]
 file = "mods/ae2.pw.toml"
 hash = "723eb1e1a42eb2fe8461d2b0ef73d8f5a37b723924a534fc054879e959aa28c7"
 metafile = true
