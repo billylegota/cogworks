@@ -1,0 +1,13 @@
+name = "Create: Metalwork"
+filename = "create-metalwork-1.20.1-1.0.8-forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f8fe3b85fa5a2eaa85bdc7722ceedfe8acb03c9d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5892189
+project-id = 966104
