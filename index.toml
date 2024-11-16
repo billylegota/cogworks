@@ -370,11 +370,6 @@ hash = "8f3923f8cd83b8a347c613c06eadd1c39e2984d8cee5a9c1a59d6f09a3f59e6f"
 metafile = true
 
 [[files]]
-file = "mods/journeymap.pw.toml"
-hash = "1ff2d8ad68c4c66a92454a917ab0e383ac67872e56832bf80559a724c8845041"
-metafile = true
-
-[[files]]
 file = "mods/just-enough-professions-jep.pw.toml"
 hash = "76ad5b491a38df4f6debfae8808cb455c9b7ecd6c039a814ce1639278ac1f86c"
 metafile = true
@@ -587,4 +582,14 @@ metafile = true
 [[files]]
 file = "mods/worldedit.pw.toml"
 hash = "bd1dc13316e2aa9b56c89e7e974057f8da8d6bbfe707ba4210109fc612b782e3"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "fc87d67d950a471f25000ca5a5c0cc80eee30d6ab79e3a998bc7ac8a862ab3b7"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "a01017e22438b69e560478b12aece5b8772ec4e3caa6d77070d50ea05d4ab45d"
 metafile = true
