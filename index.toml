@@ -340,6 +340,11 @@ hash = "ce2208de3caf116f938102b52c12ce0dd253753781a54bd0907c71dff32bc583"
 metafile = true
 
 [[files]]
+file = "mods/handcrafted.pw.toml"
+hash = "b9a7e71472f5f88229bf2f9e214b223b3900052bdc56075906d7a22acf74568c"
+metafile = true
+
+[[files]]
 file = "mods/ice-and-fire-dragons.pw.toml"
 hash = "94c7c45a70d0cea86695ecd467f8e5c22510442c53c44291a570986e234428e5"
 metafile = true
@@ -471,7 +476,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
-hash = "33c1012df4c3267ee9e70509001739908b2f2c72ae0b2728a750b3516644aa2c"
+hash = "ef0264b7d819848f72ab2f34643306187e712965a8246e1f733e1bd39d8fd681"
 metafile = true
 
 [[files]]
@@ -532,6 +537,11 @@ metafile = true
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
 hash = "f3c45080e81efae68d313fd410ee80be56fb926b8580a8b509020fd611e3ffee"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "e378e1ebedaf424f7244d4cae1e98feb74bbe22a1cb4c8767a86b9b86d799e1a"
 metafile = true
 
 [[files]]
