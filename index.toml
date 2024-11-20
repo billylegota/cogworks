@@ -76,7 +76,7 @@ metafile = true
 
 [[files]]
 file = "mods/citadel.pw.toml"
-hash = "82de5845ba726131d003e6111e5686e92c36746753d255b117c77628f040846a"
+hash = "3cdf0c628239ca09dd0378d39008729b17d4916aeed9e60c0b2d75f5bcc3b4be"
 metafile = true
 
 [[files]]
@@ -285,6 +285,11 @@ hash = "e5c70c97f5c25e8cc14838d78739934ec963cfa70373c018eb9eb96f1685d84c"
 metafile = true
 
 [[files]]
+file = "mods/domestication-innovation.pw.toml"
+hash = "2aa8e99103e73af719667f2c03ab4380b1febed92cce4724aff8a5ec0e3cafea"
+metafile = true
+
+[[files]]
 file = "mods/domum-ornamentum.pw.toml"
 hash = "360053eae8a35a1f879f70007e19b2839964947ee1536d9b18a128443f36d7b0"
 metafile = true
@@ -437,6 +442,11 @@ metafile = true
 [[files]]
 file = "mods/numismatics.pw.toml"
 hash = "95736041c9ff5b6f91faaa7b6db7f33af298eb6cff3d1400b68691aab047d60a"
+metafile = true
+
+[[files]]
+file = "mods/parties.pw.toml"
+hash = "3649539243c4ec916cdcb6483db8e9086999c3a77725a27296543f1ff4db4c91"
 metafile = true
 
 [[files]]
