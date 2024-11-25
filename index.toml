@@ -170,6 +170,16 @@ hash = "e45df35f55a3bc79ccc1bfcf3012f0e845bab0da3ae00b7559ec166e51eaacc6"
 metafile = true
 
 [[files]]
+file = "mods/create-dreams-desires.pw.toml"
+hash = "aa04729fd3f45d4bdbd97632d15ab0bd3f246272cd4677367f3e294a1b968dd5"
+metafile = true
+
+[[files]]
+file = "mods/create-encased.pw.toml"
+hash = "3ba45b8ccf9188795ed0a0f6ef2e028d071772b5719584165ebf273912984109"
+metafile = true
+
+[[files]]
 file = "mods/create-enchantment-industry.pw.toml"
 hash = "cc6024c02ab4cfcadea22833dd439456f726a23525d05ef2dfde0bb5e2d541af"
 metafile = true
@@ -582,6 +592,11 @@ metafile = true
 [[files]]
 file = "mods/towntalk.pw.toml"
 hash = "32e0f6bce7adc5b09ba3350110ac4be7ee04e556db35ba1db97bacfabd31e4dc"
+metafile = true
+
+[[files]]
+file = "mods/twigs.pw.toml"
+hash = "75ac47ef3a388aa5416f86415f79d262f68f5c8195c7a1a89f081b348a64c81f"
 metafile = true
 
 [[files]]
