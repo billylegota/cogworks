@@ -655,11 +655,6 @@ hash = "75ac47ef3a388aa5416f86415f79d262f68f5c8195c7a1a89f081b348a64c81f"
 metafile = true
 
 [[files]]
-file = "mods/unnamed-desert.pw.toml"
-hash = "e6feb29edbc974897ed5e8f524253849edcda2ff4dc5ab946acc04f731ff5298"
-metafile = true
-
-[[files]]
 file = "mods/workers.pw.toml"
 hash = "53bcf76eeb160687053a7124bdf1178374425c4c37473b01b0f07ede979655ba"
 metafile = true
