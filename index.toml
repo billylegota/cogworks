@@ -30,11 +30,6 @@ hash = "86f7c7598f05a1d61c20031673fe83c8fd5d0f2f25214fe7ca6eca6f7b70e114"
 metafile = true
 
 [[files]]
-file = "mods/amendments.pw.toml"
-hash = "420f60e542e731334fc62fc16a9945a60dfa8f6c5a647c71b2cf9217d50ea7f5"
-metafile = true
-
-[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "0a1d5aeaae3975eaa4bb3a98e91852f797a5095794af70df41d50841c57ca347"
 metafile = true
@@ -281,7 +276,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-power-loader.pw.toml"
-hash = "39cb52a90d4f3c40ad7d845e597b91c49526b8307fd52ac56b3fda2ae46160a1"
+hash = "aca22a007a717161141bbfc3ca1237496ff2a6aacb21e31e9d692181875c27a5"
 metafile = true
 
 [[files]]
