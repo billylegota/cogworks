@@ -350,6 +350,11 @@ hash = "33dee2df7c95d31ce3ec3d731201ed43ba1a8ad92116438c2108486979914c0b"
 metafile = true
 
 [[files]]
+file = "mods/dragonlib.pw.toml"
+hash = "b752ffc66ce63f9629049111bf66f0373104631439d03d649cfddcbbeb94d5d9"
+metafile = true
+
+[[files]]
 file = "mods/epic-knights-armor-and-weapons.pw.toml"
 hash = "06151f990d05964418cb61595b80c90afeb1d6285fbe789564f274b21780fc03"
 metafile = true
@@ -417,6 +422,11 @@ metafile = true
 [[files]]
 file = "mods/interiors.pw.toml"
 hash = "7ca55cd661721ca944979439aac5160009e07ce2568fbf8aee53e019f3e55fba"
+metafile = true
+
+[[files]]
+file = "mods/irons-lib.pw.toml"
+hash = "035f18fd99c46b09a58329c54329931e2578b8bac6bcc47c0bc928c9c8de2849"
 metafile = true
 
 [[files]]
