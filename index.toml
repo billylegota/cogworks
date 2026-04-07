@@ -515,8 +515,8 @@ hash = "5f36a03fb4cf32373ed78ee4813bea0376eb62bf287ffb640375f1c9b5795949"
 metafile = true
 
 [[files]]
-file = "mods/parties.pw.toml"
-hash = "3649539243c4ec916cdcb6483db8e9086999c3a77725a27296543f1ff4db4c91"
+file = "mods/open-parties-and-claims.pw.toml"
+hash = "d6fc0e5e0f7d718f17d38374dd7bcecc28fa7137283c1bf0d415f70516f8854d"
 metafile = true
 
 [[files]]
