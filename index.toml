@@ -206,7 +206,12 @@ metafile = true
 
 [[files]]
 file = "mods/create-deco.pw.toml"
-hash = "87be52b8aaa9864eab1ec2df8c862cd01a084989b07c4cdbfaa21c57a9a778a6"
+hash = "fee58a333eaf51d4862fee34fe8ba7cb70140500023e06aca3c9fcf0e0f34719"
+metafile = true
+
+[[files]]
+file = "mods/create-design-n-decor.pw.toml"
+hash = "994435ced6de94b36b0a2a5e40ad87f38c1bf3f076ee94f65dfe102d4cb93f9f"
 metafile = true
 
 [[files]]
@@ -222,11 +227,6 @@ metafile = true
 [[files]]
 file = "mods/create-ender-transmission.pw.toml"
 hash = "1a13cde135e8ff1bdbdb194afc39f00bd86af1bed666d46b9ddfad446ea4cb73"
-metafile = true
-
-[[files]]
-file = "mods/create-extended-cogs.pw.toml"
-hash = "7e6876962011caf0c25468af7727632855d8f1ef8e67c82bfb3e326f7e3f8ea1"
 metafile = true
 
 [[files]]
@@ -290,13 +290,8 @@ hash = "dbb3fbaf666652bfe0b0e6ada3e69f5af4b976c803d73312acf19e1c95c04de7"
 metafile = true
 
 [[files]]
-file = "mods/create-recycle-everything.pw.toml"
-hash = "1d987c4ca9901405394b0a3988a40f2e046cae68008d7f192a60890660b98394"
-metafile = true
-
-[[files]]
 file = "mods/create-steam-n-rails.pw.toml"
-hash = "4c091982c192238cc7b2cefbb3a6e634edc6d7a780e547d693df7f4e3e1b04be"
+hash = "a432e8775c2bdec53fca88146917905c5c82273e1b66af48b5ace0809433c8fe"
 metafile = true
 
 [[files]]
@@ -556,12 +551,12 @@ metafile = true
 
 [[files]]
 file = "mods/rechiseled-create.pw.toml"
-hash = "24e203f4cadbbbda2d3641ff33e60e2de7f1ef8d8130b6a69e18cedd9f89ae89"
+hash = "b20a87de5c777553983e6edaaedd11577d2aa0619ba93428bd550fd0ad9e535b"
 metafile = true
 
 [[files]]
 file = "mods/rechiseled.pw.toml"
-hash = "448787832873344d236008284eb11d7ae87b1c46c732b6bda1ed6f3f77544dc5"
+hash = "e1fe69f03ebaaa29f48a61637613754bc0cacdd857c482eba6c7484717ce529b"
 metafile = true
 
 [[files]]
@@ -636,12 +631,12 @@ metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-config-lib.pw.toml"
-hash = "fb0ec93bfbee412229b63a9154abc992ee7e274a84fe569e077f250e6c77abbd"
+hash = "3eede8a7ebafb69840153ff51dbc879b0232799e90a834ab6d71274b1316179f"
 metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
-hash = "fca95445829b86500535b2dfa956893f6d8fefa806b55c8147f33d108f81fb55"
+hash = "b6a895f1b93c2e70488e8b0ae289ef03257bf25d91e5d92211bfaedd54889dde"
 metafile = true
 
 [[files]]
