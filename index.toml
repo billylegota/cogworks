@@ -205,11 +205,6 @@ hash = "fee58a333eaf51d4862fee34fe8ba7cb70140500023e06aca3c9fcf0e0f34719"
 metafile = true
 
 [[files]]
-file = "mods/create-design-n-decor.pw.toml"
-hash = "994435ced6de94b36b0a2a5e40ad87f38c1bf3f076ee94f65dfe102d4cb93f9f"
-metafile = true
-
-[[files]]
 file = "mods/create-encased.pw.toml"
 hash = "ae0249ad6127e0142f69f3c034140b466a14b76b88ecb38f129eed502ecad517"
 metafile = true
