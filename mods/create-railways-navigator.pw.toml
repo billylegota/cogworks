@@ -3,11 +3,11 @@ filename = "createrailwaysnavigator-forge-1.20.1-alpha-0.9.0-C6+2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Dq3STxps/versions/BX83dc4U/createrailwaysnavigator-forge-1.20.1-alpha-0.9.0-C6%2B2.jar"
-hash-format = "sha512"
-hash = "89ed1b0d6309489500799f06b97b95eae2841c91eb6d7d30a8741fbcdf559125750beddd119574b78bbe574dd2789ce84349edba8e08b4f2c0d3e508a35a0bbd"
+hash-format = "sha1"
+hash = "6d9ce57cc078eaca80c3d0839a03030669782f24"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "Dq3STxps"
-version = "BX83dc4U"
+[update.curseforge]
+file-id = 7654971
+project-id = 935929
