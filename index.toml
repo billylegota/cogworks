@@ -311,7 +311,7 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "8782d120f8b3e8439595af87a84d8e955ecdcf2e7abcf1a2ce85c413f085daa3"
+hash = "9d7971a7af2ff4a96a0e5aede76f9cf8dc978da601e2754f79d6ec8631125bb9"
 metafile = true
 
 [[files]]
@@ -411,7 +411,7 @@ metafile = true
 
 [[files]]
 file = "mods/irons-spells-n-spellbooks.pw.toml"
-hash = "628bf8682b15f4be0656d4d7a583ece81fc90560598001453a3da152074581a6"
+hash = "30818e06d42d23b180af6ef1141634eb24311a91915e0d60cf2bd60967bd86bc"
 metafile = true
 
 [[files]]
@@ -682,6 +682,11 @@ metafile = true
 [[files]]
 file = "mods/yungs-better-caves.pw.toml"
 hash = "c6d1c3ab24396c5efd9c0bfa4eeedd9c8c42fe9be329de55d25b299f1e9ea0a2"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-desert-temples.pw.toml"
+hash = "58148fa22c72e0b0eac5e35fed0be9194ad59fe848298c1b61b565fa3158b2f4"
 metafile = true
 
 [[files]]
