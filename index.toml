@@ -240,6 +240,11 @@ hash = "4462e728c1330286d938c43f63013bcdd80c926794a92b0320b1a422547ae565"
 metafile = true
 
 [[files]]
+file = "mods/create-industry.pw.toml"
+hash = "04f84cbd5fd5408dd66d8bf48b6dffaee55baecfb84220e5dda82f43a36c3d85"
+metafile = true
+
+[[files]]
 file = "mods/create-jetpack.pw.toml"
 hash = "0a0533fddd34d04fd6551f5c352081b711662d12f2f2051fe7232a53172edf0e"
 metafile = true
@@ -281,7 +286,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-railways-navigator.pw.toml"
-hash = "11b63148016d37d853c9cc4de936a8fbd90d4d8ca1c27b6af18c213346fab9e2"
+hash = "dbb3fbaf666652bfe0b0e6ada3e69f5af4b976c803d73312acf19e1c95c04de7"
 metafile = true
 
 [[files]]
@@ -297,11 +302,6 @@ metafile = true
 [[files]]
 file = "mods/create-structures.pw.toml"
 hash = "4f64bc81a381a3cb0c637829d547d8b0f5daa0ea29fe84a9e43a91784763745e"
-metafile = true
-
-[[files]]
-file = "mods/create-tfmg.pw.toml"
-hash = "66bf2a2a06e915ebc25324b342fa9702c8cdd31783abb25e0a8322c94d562cbf"
 metafile = true
 
 [[files]]
@@ -387,6 +387,11 @@ metafile = true
 [[files]]
 file = "mods/geckolib.pw.toml"
 hash = "a1dba016bfd85fbabc5ff7c78f0302d3dd5b20026842231d6422947a7bb5f6f0"
+metafile = true
+
+[[files]]
+file = "mods/guideme.pw.toml"
+hash = "5cc92eb0e58c2afbfd625d727d80da1d1c84500ec962bb22f5be28b864f18551"
 metafile = true
 
 [[files]]
@@ -557,6 +562,11 @@ metafile = true
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "ef0264b7d819848f72ab2f34643306187e712965a8246e1f733e1bd39d8fd681"
+metafile = true
+
+[[files]]
+file = "mods/ritchies-projectile-library.pw.toml"
+hash = "ad017c00411e9b3cd8564d913e568636270ffd50bc822c919ce1db5ba0dbe126"
 metafile = true
 
 [[files]]
