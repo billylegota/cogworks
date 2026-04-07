@@ -1,0 +1,13 @@
+name = "Better Villages - Ice and Fire Compatibility "
+filename = "BetterVillage_IceAndFire_1.20.1.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2ca94bb9364ab6634af6d05f60e0b0050ff448d7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6315244
+project-id = 845289
