@@ -196,7 +196,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-connected.pw.toml"
-hash = "8d3f40c638fa0085a62a3ac477a3f2ed23e63af62da2cdf502183fa0bddbca7c"
+hash = "834517e20257dd0b64f4a6d778ad773d8e422cf7864b46a557e2fab26d153ad0"
 metafile = true
 
 [[files]]
@@ -207,11 +207,6 @@ metafile = true
 [[files]]
 file = "mods/create-deco.pw.toml"
 hash = "87be52b8aaa9864eab1ec2df8c862cd01a084989b07c4cdbfaa21c57a9a778a6"
-metafile = true
-
-[[files]]
-file = "mods/create-decoration-casing.pw.toml"
-hash = "e45df35f55a3bc79ccc1bfcf3012f0e845bab0da3ae00b7559ec166e51eaacc6"
 metafile = true
 
 [[files]]
@@ -232,6 +227,11 @@ metafile = true
 [[files]]
 file = "mods/create-extended-cogs.pw.toml"
 hash = "7e6876962011caf0c25468af7727632855d8f1ef8e67c82bfb3e326f7e3f8ea1"
+metafile = true
+
+[[files]]
+file = "mods/create-extra-casing.pw.toml"
+hash = "e4d4220d6bca545b744c449a548c8de342187aa3cd0ed987a950df9ff8e7765a"
 metafile = true
 
 [[files]]
