@@ -1,13 +1,13 @@
 name = "Sophisticated Storage"
-filename = "sophisticatedstorage-1.20.1-0.10.48.942.jar"
+filename = "sophisticatedstorage-1.20.1-1.4.34.1598.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "69901385d09eaecb9131c2789dce54690547e46a"
+hash = "7516c8c5aa1403da1ee37c099ac1a463a61ba7e6"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5890613
+file-id = 7886297
 project-id = 619320

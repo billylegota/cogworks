@@ -1,13 +1,13 @@
 name = "Create: Love & War"
-filename = "createloveandwar-0.3-1.20.1.jar"
+filename = "L&W 0.4.2-1.20.1-Create-6.0.6.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/71LJXmxX/versions/KwtUy4hh/createloveandwar-0.3-1.20.1.jar"
-hash-format = "sha1"
-hash = "eb6509ee9f4c7be66c7856dad78091c95ba7f46f"
+url = "https://cdn.modrinth.com/data/71LJXmxX/versions/1FjYbLl5/L%26W%200.4.2-1.20.1-Create-6.0.6.jar"
+hash-format = "sha512"
+hash = "995f0e7246be508ac33646e723562f1893ae8d8a2e514c0ce321af7558ad5ed6e97d9dbb7e690664879b5b0e4a5b90950811efb5600a8736cf4c84ba70805e0d"
 
 [update]
 [update.modrinth]
 mod-id = "71LJXmxX"
-version = "KwtUy4hh"
+version = "1FjYbLl5"

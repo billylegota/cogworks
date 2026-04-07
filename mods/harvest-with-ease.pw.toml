@@ -1,13 +1,13 @@
 name = "Harvest with ease"
-filename = "harvest-with-ease-forge-1.20.1-9.3.0.jar"
+filename = "harvest-with-ease-forge-1.20.1-9.4.0.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/W4Ajthd2/versions/hnfohwjx/harvest-with-ease-forge-1.20.1-9.3.0.jar"
+url = "https://cdn.modrinth.com/data/W4Ajthd2/versions/TqAYmcOy/harvest-with-ease-forge-1.20.1-9.4.0.jar"
 hash-format = "sha512"
-hash = "d3d8a4abf25a0fa3a3d3df758bfbbaa034f64f08975d43e51b3d8698fa5ae91380424336b7955430ec428be23f9fd090dd1c29f8b458f01b51efd744d9a0bf09"
+hash = "e6d6c0bdbe2a08c00d66cf087c45f602153ec2b976a4cfc39b077e94117c56d9b207e422286b6e984efa127a25bf6356d27fe4e9e1ae65523ab411fd472749ec"
 
 [update]
 [update.modrinth]
 mod-id = "W4Ajthd2"
-version = "hnfohwjx"
+version = "TqAYmcOy"
