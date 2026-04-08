@@ -1,0 +1,13 @@
+name = "Irons Spells and Spellbooks + Ice and Fire"
+filename = "IF__ISaSB_loot_compatibility (1).zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/gomKD9WI/versions/ajRuSePy/IF__ISaSB_loot_compatibility%20%281%29.zip"
+hash-format = "sha512"
+hash = "5989f2f8b56dc27fc6d3b4d5846967f5d235df93de510eff2f85f15f8ab2050d953cc0c8a7e990233e94ccbd6fd47afedef6780c312d46bf99500cde0ea1c475"
+
+[update]
+[update.modrinth]
+mod-id = "gomKD9WI"
+version = "ajRuSePy"

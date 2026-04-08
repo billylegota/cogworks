@@ -5,6 +5,11 @@ file = "Makefile"
 hash = "4d6012a0bcfac575ddd0e34bef799c88764a128ef3919adb66047e4ac1905de3"
 
 [[files]]
+file = "datapacks/is+if.pw.toml"
+hash = "6e51724a2fd9fb56bb151aa9e933a37c10c59b1679b761b72aaaa2220a054fcf"
+metafile = true
+
+[[files]]
 file = "datapacks/terratonic.pw.toml"
 hash = "f61c97ab9b29e586d3cba70390fda97126a3e1ff2656b837f3770934938e3e9a"
 metafile = true
@@ -27,6 +32,11 @@ metafile = true
 [[files]]
 file = "mods/almanac.pw.toml"
 hash = "86f7c7598f05a1d61c20031673fe83c8fd5d0f2f25214fe7ca6eca6f7b70e114"
+metafile = true
+
+[[files]]
+file = "mods/apothic-attributes.pw.toml"
+hash = "5f3996f32795f87086cd2e34ac1d7cc281411fe0c8799cb589706680107171ee"
 metafile = true
 
 [[files]]
@@ -321,7 +331,12 @@ metafile = true
 
 [[files]]
 file = "mods/curios.pw.toml"
-hash = "9eefd607e0d54ec444e798ccdeede1a09a3939440bd1e11c11b84c07a5134be2"
+hash = "1315cd56b0b4a5b3d53374cebf4f1f3cd0546b05058740847bd226c1d1ccab39"
+metafile = true
+
+[[files]]
+file = "mods/difficult-raids-compatibility-edition.pw.toml"
+hash = "d8ec56e2a8460566a638b2424a811d271cce528cc022e88a174cf6064c5ff994"
 metafile = true
 
 [[files]]
@@ -455,8 +470,18 @@ hash = "70a4ecd9d0c04ad20aeb976c1ee28933ce48a0a1f43df42deafaeb2ad7235297"
 metafile = true
 
 [[files]]
+file = "mods/lendercataclysm.pw.toml"
+hash = "9b3cd1825ce6c4ff7271ae8866840937f759b22eea515decb821c426b05c800a"
+metafile = true
+
+[[files]]
 file = "mods/library-ferret-forge.pw.toml"
 hash = "207ea5c3ad00aee495de4d614c504d443c141068a2ddf0554f5a7829923cfeec"
+metafile = true
+
+[[files]]
+file = "mods/lionfish-api.pw.toml"
+hash = "60af8798dbf3e300a5af44125595afcd5d1e70072448444156364f222cc03e98"
 metafile = true
 
 [[files]]
@@ -522,6 +547,11 @@ metafile = true
 [[files]]
 file = "mods/phantasm.pw.toml"
 hash = "1159d281e242d0c778b4a52bef228a6da0317c8344a6bd0515185e31ff1b13c8"
+metafile = true
+
+[[files]]
+file = "mods/placebo.pw.toml"
+hash = "045d582e2c534c5bb96d7336b4ae2cd12692c6de29b19ae5f1dbfd8759c03b03"
 metafile = true
 
 [[files]]
@@ -642,6 +672,11 @@ metafile = true
 [[files]]
 file = "mods/titanium.pw.toml"
 hash = "5e41fd8f565e09e83868e4c4776154befd3203b01ed5f09b6f7cd27687ec0041"
+metafile = true
+
+[[files]]
+file = "mods/to-tweaks-irons-spells.pw.toml"
+hash = "09b1a3642bd10d41e58ed24a511a3e95eff165f70bd1dd65e716f3ed40c81686"
 metafile = true
 
 [[files]]
