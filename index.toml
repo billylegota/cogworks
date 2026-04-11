@@ -301,7 +301,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-track-map-forge.pw.toml"
-hash = "2d234acabcf98c2c48e0a220763019915ff342b7b33ed33b95b5e6d7634a4545"
+hash = "53d31e746ba14fcc5cc7e9f5a318c6e0c0aed0a7dcc99f34612e28525c5a16b8"
 metafile = true
 
 [[files]]
