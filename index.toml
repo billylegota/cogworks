@@ -300,11 +300,6 @@ hash = "4f64bc81a381a3cb0c637829d547d8b0f5daa0ea29fe84a9e43a91784763745e"
 metafile = true
 
 [[files]]
-file = "mods/create-track-map-forge.pw.toml"
-hash = "53d31e746ba14fcc5cc7e9f5a318c6e0c0aed0a7dcc99f34612e28525c5a16b8"
-metafile = true
-
-[[files]]
 file = "mods/create-ultimate-factory.pw.toml"
 hash = "1e9a3f3d313bd8f7eba6212472de161dd38fd17e275ad2aea4450d16c3ec854d"
 metafile = true
