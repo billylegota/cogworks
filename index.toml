@@ -665,6 +665,16 @@ hash = "2a94ad4b0ce05cccaccbabffc78b1897cb361cc357fe296fe082730ca0972c36"
 metafile = true
 
 [[files]]
+file = "mods/tectonic.pw.toml"
+hash = "a01449c29314bff0ad2047911d8253641801e01997709f53fa5b3f52954232a3"
+metafile = true
+
+[[files]]
+file = "mods/terralith.pw.toml"
+hash = "b0978cb7ae7b79c5be89b323ca1bd038f693ff6d11c43dfcbd63953964149af2"
+metafile = true
+
+[[files]]
 file = "mods/the-twilight-forest.pw.toml"
 hash = "d1f859de9867b7433305aef1631aa22a436a4c3924474a21c0a22ab5f2093c04"
 metafile = true
