@@ -490,6 +490,11 @@ hash = "6aa6897a3227a41db128aef512ad6e6cf33e3c3b806973f94bf63a2eed69f4df"
 metafile = true
 
 [[files]]
+file = "mods/loot-integrations-ice-and-fire.pw.toml"
+hash = "a5379491b295a257581f149f7b21cf10f48248085d7e67063a83e6e5c80b990c"
+metafile = true
+
+[[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "eab12c7fddf20f293b8726f7553d2c0c0b6c578a2ba03ddf59ae40f6e684e2ce"
 metafile = true
