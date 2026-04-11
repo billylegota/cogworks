@@ -381,7 +381,7 @@ metafile = true
 
 [[files]]
 file = "mods/forgified-fabric-api.pw.toml"
-hash = "2a2f2168bf03bfa3034ad9583588676c5d66b6f7c767df9fe259ab55350792d2"
+hash = "62ef7e92478035b77e996189984e4749b2d876ed0a389977a2670a28f105bfd2"
 metafile = true
 
 [[files]]
@@ -602,6 +602,11 @@ metafile = true
 [[files]]
 file = "mods/siegeweapons.pw.toml"
 hash = "cbec87f88010d91d80f1ad773399f33e3702622e23ce13dc1f5457b8e85d7be0"
+metafile = true
+
+[[files]]
+file = "mods/sinytra-connector.pw.toml"
+hash = "576f8242f3de93161c590067fda3f3e9e922c0aea8fb5fcfac5adcef0d9d4a34"
 metafile = true
 
 [[files]]
