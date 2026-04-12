@@ -10,11 +10,6 @@ hash = "6e51724a2fd9fb56bb151aa9e933a37c10c59b1679b761b72aaaa2220a054fcf"
 metafile = true
 
 [[files]]
-file = "mods/ae2.pw.toml"
-hash = "74bbdad7434bc02ec767c15c0136269f885331601f73fa2365252c24e58c09bd"
-metafile = true
-
-[[files]]
 file = "mods/alexs-caves.pw.toml"
 hash = "6f864eef65f9a38f57eb0cc6fc71469b36ea70444a10c3e27502d617c5eaf917"
 metafile = true
@@ -582,11 +577,6 @@ metafile = true
 [[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "b52622122c19a3894e62fc5506d7c3332d202504fd406d6718be646f979feb40"
-metafile = true
-
-[[files]]
-file = "mods/rechiseled-ae2.pw.toml"
-hash = "06ca6f02931bda3aaa7b870e20fd2bc73f0e8b4b496e3a0d750332352bd80e99"
 metafile = true
 
 [[files]]
