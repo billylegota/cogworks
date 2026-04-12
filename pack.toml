@@ -1,12 +1,12 @@
 name = "Cogworks"
 author = "namgeftobang"
-version = "1.2.5"
+version = "1.2.6"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "0654cfa55cd1d72b0564948ba7bb51ff49583bda8732a4e6b7845a029d25349a"
+hash = "7ce0381b332983cf311b65a5ed8b5697abce7d2b4f704cbc5c270668afa5b555"
 
 [versions]
 forge = "47.4.10"
