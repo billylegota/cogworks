@@ -320,6 +320,11 @@ hash = "1315cd56b0b4a5b3d53374cebf4f1f3cd0546b05058740847bd226c1d1ccab39"
 metafile = true
 
 [[files]]
+file = "mods/deeperdarker.pw.toml"
+hash = "4ce03e0ebdf2444f2be9dfc46636342a99484b0f1d0099c23feff3efba6a70ff"
+metafile = true
+
+[[files]]
 file = "mods/difficult-raids-compatibility-edition.pw.toml"
 hash = "d8ec56e2a8460566a638b2424a811d271cce528cc022e88a174cf6064c5ff994"
 metafile = true
@@ -357,6 +362,11 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "4a73f04a8986129d79ea4f283a0a33ce51af17079b6efa23596af5bc685e1c1e"
+metafile = true
+
+[[files]]
+file = "mods/first-person-model.pw.toml"
+hash = "38a5c36dc95058e6141489fa8e46f355643c9ca806edc4f8a0971a2b1203df48"
 metafile = true
 
 [[files]]
@@ -402,6 +412,11 @@ metafile = true
 [[files]]
 file = "mods/ice-and-fire-dragons.pw.toml"
 hash = "94c7c45a70d0cea86695ecd467f8e5c22510442c53c44291a570986e234428e5"
+metafile = true
+
+[[files]]
+file = "mods/immersive-paintings.pw.toml"
+hash = "ccf6d52a94bf0fff992e04de5af14bf59a919746d3bde329ea7a34ca31d03f66"
 metafile = true
 
 [[files]]
@@ -532,6 +547,11 @@ metafile = true
 [[files]]
 file = "mods/neruina.pw.toml"
 hash = "e5683acb2ff7e113cbbc2e5b05fe9e7d80fc24b1dec9f523dfd459f62e2aeffb"
+metafile = true
+
+[[files]]
+file = "mods/not-enough-animations.pw.toml"
+hash = "077b5fdf5531b2ebad28955702d069f1df60589b53613b1c66a1c55ba7832bec"
 metafile = true
 
 [[files]]
