@@ -10,11 +10,6 @@ hash = "6e51724a2fd9fb56bb151aa9e933a37c10c59b1679b761b72aaaa2220a054fcf"
 metafile = true
 
 [[files]]
-file = "datapacks/terratonic.pw.toml"
-hash = "f61c97ab9b29e586d3cba70390fda97126a3e1ff2656b837f3770934938e3e9a"
-metafile = true
-
-[[files]]
 file = "mods/ae2.pw.toml"
 hash = "74bbdad7434bc02ec767c15c0136269f885331601f73fa2365252c24e58c09bd"
 metafile = true
