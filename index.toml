@@ -40,11 +40,6 @@ hash = "0a1d5aeaae3975eaa4bb3a98e91852f797a5095794af70df41d50841c57ca347"
 metafile = true
 
 [[files]]
-file = "mods/applied-energistics-2.pw.toml"
-hash = "0f4c2198603cd84a14dc6741729d0b0dcf509574776e620c36c3e7180082db32"
-metafile = true
-
-[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "5e9edd1fd2395f14a0c8a4acbdbdd61e1047be1f0033deb3140d2ce0d093e9d8"
 metafile = true
@@ -177,11 +172,6 @@ metafile = true
 [[files]]
 file = "mods/crafttweaker.pw.toml"
 hash = "3a1501153c752f350b079f0676ba4b2b610187d62f30f5910ef8d025a4af7de6"
-metafile = true
-
-[[files]]
-file = "mods/create-applied-kinetics.pw.toml"
-hash = "1d4ff345c756b272e6e0222bc731277c70b1195880ce5c35d0fe6806d22660fb"
 metafile = true
 
 [[files]]
