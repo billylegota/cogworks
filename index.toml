@@ -545,6 +545,11 @@ hash = "38eb04b5ae4e429509e8c90fed921719d600166d9be12fcd4f263cce3b117c8a"
 metafile = true
 
 [[files]]
+file = "mods/necronomicon.pw.toml"
+hash = "318a137293d0919ddeb5e25c3facd5bc83de60366ac6cd5707d28ee650330f62"
+metafile = true
+
+[[files]]
 file = "mods/neruina.pw.toml"
 hash = "e5683acb2ff7e113cbbc2e5b05fe9e7d80fc24b1dec9f523dfd459f62e2aeffb"
 metafile = true
@@ -557,6 +562,11 @@ metafile = true
 [[files]]
 file = "mods/numismatics.pw.toml"
 hash = "5f36a03fb4cf32373ed78ee4813bea0376eb62bf287ffb640375f1c9b5795949"
+metafile = true
+
+[[files]]
+file = "mods/open-parties-and-claims-pvp-support.pw.toml"
+hash = "1e1bbf51b77cf0ec8cd2431025355cd186fef820d03dc34631d2d5561528c1fb"
 metafile = true
 
 [[files]]
