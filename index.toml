@@ -70,6 +70,11 @@ hash = "585a3071c68587c3c041832210a58e74e7701162dbc360d47956655ca1a6438e"
 metafile = true
 
 [[files]]
+file = "mods/better-combat-by-daedelus.pw.toml"
+hash = "95e1e53b02444a363aef8e309fd75422bae1d8844ddf681ba8750f8e6d3e1942"
+metafile = true
+
+[[files]]
 file = "mods/better-village-forge.pw.toml"
 hash = "ec58995b4ee6e5610447daa2996e46fafd87b25888f072e7593bb3103a26dabc"
 metafile = true
