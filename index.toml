@@ -340,6 +340,11 @@ hash = "d8ec56e2a8460566a638b2424a811d271cce528cc022e88a174cf6064c5ff994"
 metafile = true
 
 [[files]]
+file = "mods/distant-horizons.pw.toml"
+hash = "6a18fc39dbe317dcdba9aac9d5457e1bb2aa6decf77a6f4d6e67d7fbff0831d0"
+metafile = true
+
+[[files]]
 file = "mods/domestication-innovation.pw.toml"
 hash = "2aa8e99103e73af719667f2c03ab4380b1febed92cce4724aff8a5ec0e3cafea"
 metafile = true
