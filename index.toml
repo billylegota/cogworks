@@ -360,6 +360,11 @@ hash = "06151f990d05964418cb61595b80c90afeb1d6285fbe789564f274b21780fc03"
 metafile = true
 
 [[files]]
+file = "mods/epic-knights-ice-and-fire.pw.toml"
+hash = "8def2231d2d5e4b2a5c98c82ea5021cf190084987752445448a7529ad38ea840"
+metafile = true
+
+[[files]]
 file = "mods/fallingtree.pw.toml"
 hash = "a79279c798e10b673c3e7dfbe675a29e09d5709ddf38d7300356346a7d29ac13"
 metafile = true
