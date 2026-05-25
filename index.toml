@@ -425,6 +425,11 @@ hash = "3d5d71177f4b6fe0615e638dbbbbfae2b41cd44c128c65e0a2139eb5e9236165"
 metafile = true
 
 [[files]]
+file = "mods/horse-combat-controls.pw.toml"
+hash = "753645ef0d0a2639e5ceb2d266688fc34961324d53b30cea7e4122511705e781"
+metafile = true
+
+[[files]]
 file = "mods/ice-and-fire-spellbooks.pw.toml"
 hash = "cc32aa4ef01da1b3f16b3bec4bba92ba0fa9de63e12ade47032f6d670df3bb6f"
 metafile = true
