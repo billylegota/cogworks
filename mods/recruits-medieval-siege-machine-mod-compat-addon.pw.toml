@@ -1,0 +1,13 @@
+name = "Recruits-Medieval Siege Machine mod compat addon"
+filename = "Recruits Siege Compatibility-2.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "562c502cac57f4e6c437a99c7c6888e364446405"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7672279
+project-id = 1420539

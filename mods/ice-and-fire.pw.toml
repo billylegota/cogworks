@@ -1,0 +1,15 @@
+name = "Ice_and_Fire"
+filename = "iceandfire-2.1.14-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/colinmccarson/Ice_and_Fire/releases/download/1.20.1-custom-1/iceandfire-2.1.14-1.20.1.jar"
+hash-format = "sha256"
+hash = "5056271a8067fdfd04c7c75c9a099db309831527b362cb0aa62df5ea3b11b287"
+
+[update]
+[update.github]
+branch = "1.20.1-yaw-toggle"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+slug = "colinmccarson/Ice_and_Fire"
+tag = "1.20.1-custom-1"

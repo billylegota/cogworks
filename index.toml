@@ -425,13 +425,13 @@ hash = "3d5d71177f4b6fe0615e638dbbbbfae2b41cd44c128c65e0a2139eb5e9236165"
 metafile = true
 
 [[files]]
-file = "mods/ice-and-fire-dragons.pw.toml"
-hash = "94c7c45a70d0cea86695ecd467f8e5c22510442c53c44291a570986e234428e5"
+file = "mods/ice-and-fire-spellbooks.pw.toml"
+hash = "cc32aa4ef01da1b3f16b3bec4bba92ba0fa9de63e12ade47032f6d670df3bb6f"
 metafile = true
 
 [[files]]
-file = "mods/ice-and-fire-spellbooks.pw.toml"
-hash = "cc32aa4ef01da1b3f16b3bec4bba92ba0fa9de63e12ade47032f6d670df3bb6f"
+file = "mods/ice-and-fire.pw.toml"
+hash = "50ed70b84cf730299d347fbd4242c4ea3fe7213bf16958d506528945fc04dfb5"
 metafile = true
 
 [[files]]
@@ -530,6 +530,11 @@ hash = "41a036a86db9c0cab20b9b8956b0749bdfea13942d6ca00668304e5d0731166f"
 metafile = true
 
 [[files]]
+file = "mods/medieval-siege-machines.pw.toml"
+hash = "39766d19583945b32cc13877302e76ec5a9da8e7a2ad2647817c7a94594e65d5"
+metafile = true
+
+[[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "eab12c7fddf20f293b8726f7553d2c0c0b6c578a2ba03ddf59ae40f6e684e2ce"
 metafile = true
@@ -622,6 +627,11 @@ metafile = true
 [[files]]
 file = "mods/rechiseled.pw.toml"
 hash = "e1fe69f03ebaaa29f48a61637613754bc0cacdd857c482eba6c7484717ce529b"
+metafile = true
+
+[[files]]
+file = "mods/recruits-medieval-siege-machine-mod-compat-addon.pw.toml"
+hash = "78b5f86eede1374b69ca0a34557ce355f853fbb3be2871f0868b411cf0431815"
 metafile = true
 
 [[files]]
