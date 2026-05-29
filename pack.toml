@@ -1,6 +1,6 @@
 name = "Cogworks"
 author = "namgeftobang"
-version = "1.2.19"
+version = "1.2.20"
 pack-format = "packwiz:1.1.0"
 
 [index]
