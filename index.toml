@@ -436,7 +436,7 @@ metafile = true
 
 [[files]]
 file = "mods/ice-and-fire.pw.toml"
-hash = "50ed70b84cf730299d347fbd4242c4ea3fe7213bf16958d506528945fc04dfb5"
+hash = "773da57f94aa6671fca172000c47eac779335e8fca695ecdd3274d589fdfdebe"
 metafile = true
 
 [[files]]
